@@ -38,9 +38,9 @@ Research on higher-order resonant compensation networks under expert guidance, f
 
 ## Connect With Me 🌐
 Explore my technical work and feel free to collaborate:
-- **LinkedIn:** [Shambhavi Jha](https://www.linkedin.com/in/shamscript009/) *(placeholder link)*
-- **GitHub:** [ShamScripts](https://github.com/ShamScripts) *(placeholder link)*
-- **Email:** f20230009@dubai.bits-pilani.ac.in *(placeholder email)*
+- **LinkedIn:** [Shambhavi Jha](https://www.linkedin.com/in/shamscript009/) 
+- **GitHub:** [ShamScripts](https://github.com/ShamScripts) 
+- **Email:** f20230009@dubai.bits-pilani.ac.in 
 
 ---
 
