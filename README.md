@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # ShamScripts
-Welcome to **ShamScripts**—a curated collection of technical projects and scripts that highlight my skills and dedication to coding. Explore innovative solutions and tools designed to solve real-world problems.
+Hi!! This is Shambhavi Jha . Welcome to my github page **ShamScripts**—a curated collection of technical projects and scripts that highlight my skills and dedication to coding. Explore innovative solutions and tools designed to solve real-world problems.
 
 ---
 
